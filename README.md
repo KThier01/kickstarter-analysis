@@ -1,10 +1,5 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends.
+# Kickstarting with Excel
 
-![Kickstarter_Parent_Category_Outcomes_Chart](https://user-images.githubusercontent.com/106564152/173248183-1cc9ef2d-ac7f-4e87-8454-d36c5a7098a6.png)
+![Outcomes_Vs_Goals](https://user-images.githubusercontent.com/106564152/174203763-bb19dcbb-3b44-4265-afaa-88818c327191.png)
 
-Per the stacked column chart above, Kickstarters under the category "theater" have the highest success rates.
-
-According to Kickstarter data, launching a campaign in May yields the highest rate of success, as detailed in the line graph below.
-
-![Launch_Date_Outcomes](https://user-images.githubusercontent.com/106564152/173248061-6a46b384-aa62-43cd-b84b-21634ef2fae5.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106564152/174203906-60169d48-eda7-4ccf-8237-88caf7647a36.png)
